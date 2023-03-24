@@ -9,63 +9,63 @@ var score=0;
 var HTMLquestions=[
 
     {
-        question: "Я устал ?",
-        choices: ["Нет ты что долбоеб","Зеленая травааа","Нет","Кто спрашивает"],
-        answer: 2
-    
-    },
-    
-    {
-        question: "Будем топ 3 :",
-        choices: ["Я арлекин","Да","Земля в иллюминаторе","рыба"],
+        question: "Наука о живой природе носит название: ",
+        choices: ["Физика","Химия","Биология","География"],
         answer: 3
     
     },
+    
     {
-        question: "Ты рыба",
-        choices: ["Да господин","Пошел нахуй","нет","Незнаю"],
-        answer: 1
+        question: "Какие признаки характерны для всех живых организмов :",
+        choices: ["Активное передвижение","Дыхание, питание, рост, размножение","Поглощение из почвы растворённых в воде минеральных солей","Образование органических веществ из неорганических"],
+        answer: 2
     
     },
     {
-        question: "Apart from <b> tag, what other tag makes text bold ?",
-        choices: ["fat","strong","black","emp"],
+        question: "Часть клетки, где хранится наследственная информация",
+        choices: ["Цитоплазма","Ядро","Вакуоль","Клеточная стенка"],
         answer: 2
+    
+    },
+    {
+        question: "Молодая клетка отличается от старой тем, что …",
+        choices: ["В ней несколько маленьких вакуолей, ядро прилегает к клеточной оболочке","В ней одна большая вакуоль, ядро прилегает к клеточной оболочке","В ней одно большая вакуоль, ядро распологается в центре","В ней несколько маленьких вакуолей, ядро распологается в центре "],
+        answer: 4
     
     },
     {/*5*/
-        question: "How can you make a bulleted list with numbers? ",
-        choices: ["dl","ol","list","ul"],
-        answer: 2
+        question: "Имя учёного, который первым обобщил биологические знания о животных, накопленные до него человечеством:",
+        choices: ["Аристотель","Теофраст","К.Линней","Ч.Дарвин"],
+        answer: 1
     
     },
     {
-        question: "What tag is used to display a picture in a HTML page?",
-        choices: ["picture","image","pic","img"],
-        answer: 4
+        question: "К органическим веществам клетки относится:",
+        choices: ["Минеральные соли","Жиры","Зола","Воду"],
+        answer: 2
     
     }, 
     {
-        question: "HTML web pages can be read and rendered by _________.",
-        choices: ["Compiler","Server","Web Browser","Interpreter"],
+        question: "Одноклеточные организмы объединены в царство",
+        choices: ["растений","грибов","бактерий","животных"],
         answer: 3
     
     }, 
     {
-        question: "Which of the following is not a browser ?",
-        choices: ["Microsofts Bing","Netscape Navigator","Mozilla Firefox","Opera"],
+        question: "Бактериальную клетку от окружающей среды отделяет",
+        choices: ["наружная мембрана","цитоплазма","жгутик","ядерная оболочка"],
         answer: 1
     
     }, 
     {
-        question: "HTML tags are surrounded by which type of brackets.",
-        choices: ["Curly","Round","Squart","Angle"],
+        question: "Бактерии, способные образовывать органические вещества из неорганических, называются",
+        choices: ["симбионты","гетеротрофы","болезнетворные","автотрофы"],
         answer: 4
     
     }, 
     {/*10*/
-        question: "Tags and test that are not directly displayed on the page are written in _____ section.",
-        choices: ["head","title","body","html"],
+        question: "Жгутик бактерий представляет собой органоид для ",
+        choices: ["передвижения","размножения","перенесения неблагоприятных условий","запасания белка"],
         answer: 1
     
     }
